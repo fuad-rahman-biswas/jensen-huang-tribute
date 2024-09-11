@@ -46,7 +46,7 @@ Explore the sections to learn more about Jensen Huang and NVIDIA.
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## 📬 Contact
-For any questions or feedback, you can reach me at fuad.rahman@example.com.
+For any questions or feedback, you can reach me at fuadrahman185@gmail.com.
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
